@@ -8,6 +8,6 @@ __Python files in order__: 1) EDA.ipynb, 2) functions.py, 3) main_runmodels.py, 
 
 __Other file__: patient_data.sql
 
-__Summary__: Please read blog post [here](https://github.com/wfl/healthcare_stroke_classification).
+__Summary__: Please read blog post [here](https://github.com/wfl/wfl.github.io/blob/master/_posts/2019-05-19-Project-Mcnulty-Stroke-Prediction.md).
 
 
